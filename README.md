@@ -52,7 +52,7 @@ Interactive Dashboard: A user-friendly R-Shiny dashboard providing an interactiv
 ## Contributors
 
 - [@Jinal Suthar](https://github.com/jinalsuthar25)
-- [@Divya Meghana Mamidipalli](https://github.com/DivyaMeghana7686)
+- [@Divya Meghana Mamidipalli](https://github.com/DivyaMeghanaMamidipalli)
 - [@Prasanthi Bikkavolu](https://github.com/Prasanthi1201)
 
 ## References
